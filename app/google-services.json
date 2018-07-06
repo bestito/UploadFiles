@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "401817108606",
+    "firebase_url": "https://nss-bits-pilani.firebaseio.com",
+    "project_id": "nss-bits-pilani",
+    "storage_bucket": "nss-bits-pilani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401817108606:android:b0b7b84b1443fe73",
+        "android_client_info": {
+          "package_name": "com.example.administrator.uploadfile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401817108606-vc0jkldk4q63g5cd5b080nduv6lkbpc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.administrator.uploadfile",
+            "certificate_hash": "b5d621e7421516d5827bd9a9cb5e8f676614b385"
+          }
+        },
+        {
+          "client_id": "401817108606-cnlh42p376n6ul9f7lf5ubk4iqn6t9uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2r0DTH5rGsIpeRTAOXTj7BDl82tJFMAg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401817108606-cnlh42p376n6ul9f7lf5ubk4iqn6t9uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401817108606:android:c16057ff1e95da30",
+        "android_client_info": {
+          "package_name": "com.example.palakgoyal.myapplication_nss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401817108606-cnlh42p376n6ul9f7lf5ubk4iqn6t9uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2r0DTH5rGsIpeRTAOXTj7BDl82tJFMAg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401817108606:android:a99cf02d0e818a2b",
+        "android_client_info": {
+          "package_name": "com.nssbitspilani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401817108606-1e0k6sdlfnh1ti43qo6ftdlreec8pvs6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nssbitspilani",
+            "certificate_hash": "b4b32243089ca7f593bfbf9c5aba1ec614afb486"
+          }
+        },
+        {
+          "client_id": "401817108606-cnlh42p376n6ul9f7lf5ubk4iqn6t9uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2r0DTH5rGsIpeRTAOXTj7BDl82tJFMAg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401817108606-cnlh42p376n6ul9f7lf5ubk4iqn6t9uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
